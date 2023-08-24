@@ -7,6 +7,9 @@ title: Student Blog
 ## My Blog
 Hi
 ![Alt text](images/IMG_0946.JPG)
+## More About Me
+Love Basketball
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Freferee-omar-omar-the-ref-omar-the-baltimore-ref-you-ladies-right-gif-17816137414310322657&psig=AOvVaw1jrADuxVwP_UoBZE1fTGex&ust=1692984398664000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLjMgsLo9YADFQAAAAAdAAAAABAD 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
