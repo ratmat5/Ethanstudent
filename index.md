@@ -4,9 +4,9 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-My blog
-
+## My Blog
+Hi
+![Alt text](images/IMG_0946.JPG)
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
