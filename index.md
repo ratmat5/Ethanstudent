@@ -5,7 +5,7 @@ title: Student Blog
 
 
 ## My Blog
-Hi
+Hi :D
 ![Alt text](images/IMG_0946.JPG)
 ## More About Me
 I Love Basketball
